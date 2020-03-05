@@ -2,6 +2,6 @@
    new_array = []
   array.join (", ")
      if array[-1] 
-       array.join(" ,and ")
+       array.join(", and ")
      end
   end
